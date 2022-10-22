@@ -21,3 +21,17 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 <img width="1470" alt="Screen Shot 2022-10-22 at 4 31 50 PM" src="https://user-images.githubusercontent.com/99038613/197361288-68e75d4a-d5b9-48f7-ac26-fb3d9cfeddd7.png">
 
 <img width="1470" alt="Screen Shot 2022-10-22 at 4 32 05 PM" src="https://user-images.githubusercontent.com/99038613/197361290-cde0126d-7602-4cf1-8247-656a89ae7881.png">
+
+## Activity 6
+
+<img width="638" alt="Screen Shot 2022-10-22 at 4 40 14 PM" src="https://user-images.githubusercontent.com/99038613/197361657-19203b6e-6e2d-4dfd-9b69-5b2201d059e9.png">
+
+<img width="877" alt="Screen Shot 2022-10-22 at 4 42 05 PM" src="https://user-images.githubusercontent.com/99038613/197361676-e4133139-d68a-41b0-b666-cecd72699785.png">
+
+<img width="628" alt="Screen Shot 2022-10-22 at 4 39 14 PM" src="https://user-images.githubusercontent.com/99038613/197361653-78aa1b45-dfbd-4d29-8517-81d1588aac89.png">
+
+<img width="817" alt="Screen Shot 2022-10-22 at 4 42 24 PM" src="https://user-images.githubusercontent.com/99038613/197361686-cfc91443-888a-4a45-b3ef-55d49a6b3382.png">
+
+<img width="638" alt="Screen Shot 2022-10-22 at 4 39 48 PM" src="https://user-images.githubusercontent.com/99038613/197361655-000d3fd0-67b7-4722-aa96-42255d3263b0.png">
+
+<img width="848" alt="Screen Shot 2022-10-22 at 4 42 40 PM" src="https://user-images.githubusercontent.com/99038613/197361690-f001fc60-208e-4ffd-92bb-6430226eae74.png">
