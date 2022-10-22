@@ -1,4 +1,4 @@
-{% from "macro.html" import common_form %}
+{% from "_formhelpers.html" import common_form %}
 
 <!DOCTYPE html>
 <html lang="en">
@@ -20,13 +20,9 @@
   <h1 style="text-align: center">Education Pathways</h1>
 
   <body>
-    {% from "_formhelpers.html" import render_field %}
     <h3>Search for courses</h3>
-
     {{ common_form(form) }}
-
     <h3>Search Results</h3>
-
     <div id="results-page-table-container">
       {% for table in tables %} {{ table|safe }} {% endfor%}
     </div>

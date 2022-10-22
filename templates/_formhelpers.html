@@ -1,3 +1,25 @@
 {% macro render_field(field) %}
-    {{ field.label }} {{ field(**kwargs)|safe }}
+<div class="common-page-form-field">
+  <strong>{{ field.label }}</strong><br />
+  {{ field(**kwargs)|safe }}
+</div>
+{% endmacro %} 
+
+{% macro common_form(form) %}
+<form method="post" class="common-page-form">
+  <dl>
+    {{ render_field(form.select) }}
+    <p>
+      Restrict by one of: {{ render_field(form.divisions) }} or {{
+      render_field(form.departments) }} or {{ render_field(form.campuses) }}
+    </p>
+    <p>{{ render_field(form.search) }}</p>
+  </dl>
+  <p>
+    {{render_field(form.top)}}
+    <button type="submit" class="btn btn-primary common-page-submit-btn">
+      Search
+    </button>
+  </p>
+</form>
 {% endmacro %}
