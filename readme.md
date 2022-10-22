@@ -16,8 +16,8 @@ This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
 <img width="1470" alt="Screen Shot 2022-10-22 at 4 02 40 PM" src="https://user-images.githubusercontent.com/99038613/197360422-e4f116d7-0630-45f8-856d-57dfa7e6f89d.png">
 
-## Activity 4
+## Activity 4 & 5
 
-<img width="1470" alt="Screen Shot 2022-10-22 at 4 27 06 PM" src="https://user-images.githubusercontent.com/99038613/197361131-2599de32-f0de-4649-aa35-557124f36f58.png">
+<img width="1470" alt="Screen Shot 2022-10-22 at 4 31 50 PM" src="https://user-images.githubusercontent.com/99038613/197361288-68e75d4a-d5b9-48f7-ac26-fb3d9cfeddd7.png">
 
-<img width="1470" alt="Screen Shot 2022-10-22 at 4 27 13 PM" src="https://user-images.githubusercontent.com/99038613/197361132-535b1668-07eb-4c4c-ab6d-c1306ebdf169.png">
+<img width="1470" alt="Screen Shot 2022-10-22 at 4 32 05 PM" src="https://user-images.githubusercontent.com/99038613/197361290-cde0126d-7602-4cf1-8247-656a89ae7881.png">
