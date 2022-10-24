@@ -1,6 +1,7 @@
 # Lab 5 - Front-end Design
 
 Kevin Li
+Alfa Tu
 
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
 
